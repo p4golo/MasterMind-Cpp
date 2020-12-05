@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1605200468 source:c:\users\paco\desktop\dsw\practica2\main.cpp
+	<iostream>
+	"mmind_basic.h"
+	"modulo1.h"
+
+1605194977 c:\users\paco\desktop\dsw\practica2\mmind_basic.h
+
+1605200293 c:\users\paco\desktop\dsw\practica2\modulo1.h
+
+1605195729 source:c:\users\paco\desktop\dsw\practica2\mmind_basic.cpp
+	<iostream>
+	<math.h>
+	"mmind_basic.h"
+
+1605203086 source:c:\users\paco\desktop\dsw\practica2\modulo1.cpp
+	<iostream>
+	"mmind_basic.h"
+	"modulo1.h"
+	<ctime>
+	<cstdlib>
+
